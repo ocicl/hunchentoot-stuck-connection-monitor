@@ -1,0 +1,10 @@
+* hunchentoot-stuck-connection-monitor
+
+Monitors hunchentoot connections and logs the connections stuck in the
+same state for a long time.
+
+|---------+----------------------------------------------------------------------------|
+| source  | git:https://github.com/avodonosov/hunchentoot-stuck-connection-monitor.git |
+| commit  | bbaf2fc                                                                    |
+| systems | hunchentoot-stuck-connection-monitor                                       |
+|---------+----------------------------------------------------------------------------|
