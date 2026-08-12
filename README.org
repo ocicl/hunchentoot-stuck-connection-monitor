@@ -8,4 +8,4 @@ same state for a long time.
 | commit  | bbaf2fc                                                                    |
 | systems | hunchentoot-stuck-connection-monitor                                       |
 |---------+----------------------------------------------------------------------------|
- 
+  
